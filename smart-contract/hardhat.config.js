@@ -14,7 +14,7 @@ module.exports = {
     rinkeby: {
       url: 'https://eth-rinkeby.alchemyapi.io/v2/7m2nVK0xbq-lZPCMiX3tW2RngLPuBFif',
       accounts: [
-        'e16336ce359cabf969decdf25ac362bdc0fd58573a133fb192ab60f7efad0bef'
+        '839bc8e60b36639750d5edb940a9dff76bbc1d92a7074e459b8c317ec4ac2cab'
       ]
     }
   },
