@@ -1,13 +1,4 @@
-<<<<<<< HEAD
-## Metamask
+## Berzite SWAP
 
-- Actually an uniswap copy
-
-Here is goin to be the Metamask Test
-
-- Here will be testing all the stuff relacioned whit metamask.
-- All the stuff will be tested whit real life projects.
-=======
-# Berzite-Swap
-This is a copy of Uniswap used to learn blockchain development
->>>>>>> dd5408eb055f84083c6fa16d5c3e055bfc663e87
+This is a blockchain app that allows you to pass Ethereum to other wallet addresses.
+<img width="1511" alt="Captura de pantalla 2022-06-25 a las 18 14 19" src="https://user-images.githubusercontent.com/96486230/175781970-93c75849-2c89-44ad-92c8-99dc203f7104.png">
